@@ -1,2 +1,2 @@
 # PlanetCircle-PhySim
-This is a repository dedicated to my project 'PlanetCircle'. My aim in this project is to succesfully SIMULATE SIMPLE PLANETARY MOTION and provide the simulated data to the user. For implementing, calculation and manipulating FORCES i am using VECTORS. This goal is captured in this 'Vectors' branch.
+This is a repository dedicated to my project 'PlanetCircle'. My aim in this project is to succesfully SIMULATE SIMPLE PLANETARY MOTION and provide the simulated data to the user. For implementing, calculation and manipulating FORCES i am using VECTORS. Then using the force vectors i am working out some Kinematics stuffs on the celestial bodies. Then i try to simulate the data on the screen and also as provide the data to the user as a text file.
